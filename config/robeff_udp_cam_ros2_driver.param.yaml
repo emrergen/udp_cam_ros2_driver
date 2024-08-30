@@ -1,0 +1,7 @@
+/**: 
+  ros__parameters:
+    publisher_topic_image: "robeff/udp_cam/image_raw"
+    frame_id: "robeff_udp_cam"
+    udp_cam_ip: "0.0.0.0"
+    udp_cam_port: 12345
+    image_viz_mode: false
